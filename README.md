@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name's Michael
+
 - 🔭 I’m currently working on test software in the Aerospace industry
 
 <!--
