@@ -2,7 +2,7 @@
 
 My name's Michael
 
-- 🔭 I’m [https://mda.space/] working as a software dev in the space technology industry at Canada's largest space technology company, MDA Space
+- 🔭 I’m working as a software dev in the space technology industry at Canada's largest space technology company, [MDA Space](https://mda.space/)
 - 😄 I love collaborating and seeing the fruits of my labor
 
 <!--
