@@ -2,9 +2,8 @@
 
 My name's Michael
 
-- 🔭 I’m currently hardware tests in the Aerospace industry
+- 🔭 I’m working as a software dev in the space technology industry at Canada's largest space technology company
 - 😄 I love collaborating and seeing the fruits of my labor
-- 🌱 I’m currently looking for full time work when I graduate this May
 
 <!--
 **MikeRaff/MikeRaff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
